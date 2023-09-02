@@ -1,0 +1,17 @@
+div{
+    height: 400px;
+    width: 220px;
+    border: 2px solid black;
+    color: cornsilk;
+    background-color: black;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_640.jpg);
+    background-size: cover;
+}
+
+h1{
+    color: aliceblue;
+
+}
